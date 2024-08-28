@@ -1,1 +1,1 @@
-# npm-filextlint
+# filextlint
